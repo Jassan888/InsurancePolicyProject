@@ -1,11 +1,11 @@
-pragma solidity ^0.7.0;
+pragma solidity >=0.4.22 <0.8.0;
 
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v2.5.0/contracts/math/SafeMath.sol";
 
 contract Insurance{
     using SafeMath for uint;
     enum Statuses {Alive, Deceased}
-    Statuses currentStatus
+    Statuses currentStatus;
     
     address payable insurer;
     address payable insured;
