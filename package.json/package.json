@@ -1,0 +1,15 @@
+{
+    "name": "Insurance-Project",
+   " version": "1.0.0",
+   "description": "issuing benefits to policy holders family",
+   "main": "truffle.js",
+   "directories": {
+       "test": "test"
+   },
+   "author": "Jeffrey Assan",
+   "license": "ISC",
+   "devDependencies": {
+       "lite-server":"^2.3.0"
+   }
+
+}
