@@ -1,0 +1,1 @@
+const LifeInsurance= require('LifeInsurance');
