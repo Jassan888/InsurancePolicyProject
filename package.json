@@ -1,7 +1,7 @@
 {
   "name": "lifeinsurance_project",
   "version": "1.0.0",
-  "description": "",
+  "description": "Project for my Portfolio.\r I'm a blockchain developer here just trying to show off my skills for compannies\r looking for full stack blockchain developers.",
   "main": "truffle-config.js",
   "directories": {
     "test": "test"
@@ -20,6 +20,9 @@
   },
   "homepage": "https://github.com/Jassan888/InsurancePolicyProject#readme",
   "dependencies": {
+    "@openzeppelin/contracts": "^3.2.1-solc-0.7",
     "package-lock.json": "^1.0.0"
-  }
+  },
+  "devDependencies": {},
+  "keywords": []
 }
