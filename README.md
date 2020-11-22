@@ -14,3 +14,4 @@ Truffle
 Ethereum
 Smart Contracts
 and more.
+# LifeInsurancePolicy
